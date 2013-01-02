@@ -1,0 +1,1 @@
+os.execute ("gcc -o foo.exe foo.c -Lf:\lua -llua5.1 -If:\lua\lua5.1\include")
